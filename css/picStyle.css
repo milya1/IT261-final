@@ -1,0 +1,30 @@
+.galleryPic {
+	width: 55%;
+	height: auto;
+	/* border: 10px solid white; */
+}
+
+.galleryPic:hover {
+	border: 5px solid rgba(66, 73, 87, 0.603);
+}
+
+.galleryDiv {
+	position: relative;	
+	margin-left: 10%;
+	margin-right: 10%;
+	display: inline-block;
+}
+
+.bigPic {
+	position: relative;
+	display: block;
+	width: 30%;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.bigPic:hover {
+	width: 80%;
+	height: auto;
+}
